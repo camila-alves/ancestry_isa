@@ -1,1 +1,3 @@
-# ancestry_isa
+# GENETIC ANCESTRY AND SELF-REPORTED SKIN COLOR-RACE IN THE URBAN ADMIXED POPULATION OF SÃO PAULO CITY, BRAZIL
+
+## Repository of scripts used in Global and Local ancestry analysis
